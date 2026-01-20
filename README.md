@@ -1,6 +1,6 @@
 # Hi there, I'm RockeyWereWolf 👋 
 
-## I'm Software Developer who really likes to try himself in new and undescoveried fields
+## I'm Software Developer who really likes to try himself in new and undiscovered fields
 
 - My most used stack at the moment include, but not exclude:
   <br>
@@ -8,7 +8,7 @@
   <br>
   Python for my ML/modern AI techniques, C/C++ mostly for side projects, C# for Web Backend(but i lost interest in it)
 
-- I am constantly sys admining my home pc, since I am using an Arch Linux, and tend to design my own user experience as much as possible. DWM learned me to get used to "patching" software that doesnt solve my personal needs, and then I even started to develop my own mini-apps to exchance system's overall feel. That really changes your mind from just a expert sys admin to entry-level system architector
+- I am constantly sys admining my home pc, since I am using an Arch Linux, and tend to design my own user experience as much as possible. DWM taught me to get used to "patching" software that doesnt solve my personal needs, and then I even started to develop my own mini-apps to enhance system's overall feel. That really changes your mind from just a expert sys admin to entry-level system architect
 
 - I often use my OCI free tier to host applications, websites and game servers for myself or friends, and also was developing CI/CD pipelines, mostly in GitHub Actions, for my student projects back then. To just commit my repo from any computer, and almost instantly see the change in application hosted in cloud. 
   <br>
@@ -42,7 +42,7 @@ For now, just see repositories tab of profile itself.
 ## My OS journey:
 
 - 🗓️ **2009 - 2024**: `Windows XP` ➔ `7` ➔ `10`
-- 🚀 **Dec 2024 - Now**: ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) **Bare bone Arch Linux**, just for fun.
+- 🚀 **Since 2024 - Now**: ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) **Bare bone Arch Linux**, just for fun.
 
 ## Additional stuff
 - **Alt account:** [@RockeyWereWolfCodeAcademy](https://github.com/RockeyWereWolfCodeAcademy) (created while learning asp.net)
